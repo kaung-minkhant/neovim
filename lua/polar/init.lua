@@ -1,2 +1,2 @@
 require("polar.remap")
-print("hello from polar")
+require("polar.set")
