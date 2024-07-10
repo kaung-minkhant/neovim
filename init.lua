@@ -1,0 +1,2 @@
+require("polar")
+print("hello")
